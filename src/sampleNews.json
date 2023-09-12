@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Alex Leary, Aruna Viswanatha and Sadie Gurman",
+      "title": "FBI Recovered Eleven Sets of Classified Documents in Trump Search, Inventory Shows - The Wall Street Journal",
+      "description": "Some of the documents recovered from the former president’s home were marked top secret and meant to be kept in special facilities, an inventory showed.",
+      "url": "https://www.wsj.com/articles/fbi-recovered-eleven-sets-of-classified-documents-in-trump-search-inventory-shows-11660324501",
+      "urlToImage": "https://images.wsj.net/im-603162/social",
+      "publishedAt": "2022-08-12T18:31:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Payton Major, Judson Jones and Brandon Miller, CNN",
+      "title": "Parts of drought-prone California could become a 'vast inland sea' due to megafloods, study shows - CNN",
+      "description": "A new study by the journal Science shows climate change has already doubled the chances of a disastrous flood happening in California in the next four decades. And experts say it would be unlike anything anyone, alive today, has ever experienced.",
+      "url": "https://www.cnn.com/2022/08/12/weather/california-megaflood-study/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220812105534-06-california-megaflood-study-super-tease.jpg",
+      "publishedAt": "2022-08-12T18:25:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Kevin Seifert",
+      "title": "Minnesota Vikings QB Kirk Cousins tests positive for COVID-19, will miss preseason opener - ESPN",
+      "description": "Kirk Cousins has tested positive for COVID-19 and will miss the Vikings' preseason opener against the Raiders. The Minnesota quarterback missed one regular-season game last year after testing positive.",
+      "url": "https://www.espn.com/nfl/story/_/id/34389253/minnesota-vikings-qb-kirk-cousins-tests-positive-covid-19-miss-preseason-opener",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1226%2Fr955337_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-08-12T18:07:35Z",
+      "content": "EAGAN, Minn. -- Minnesota Vikings quarterback Kirk Cousins has tested positive for COVID-19, coach Kevin O'Connell said Friday. Cousins will be required to isolate for at least five days, meaning he … [+1116 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Karen Matthews",
+      "title": "Polio detected in NYC's sewage, suggesting virus circulating - The Associated Press",
+      "description": "NEW YORK (AP) — The virus that causes polio has been found in New York City’s wastewater in another sign that the disease, which hadn’t been seen in the U.S. in a decade, is quietly spreading among unvaccinated people, health officials said Friday.",
+      "url": "https://apnews.com/article/health-new-york-city-wastewater-climate-and-environment-8df014e9b38a70606c04234492bb3fb4",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/221757d74c22419095b557a6d3e4ab75/1800.jpeg",
+      "publishedAt": "2022-08-12T18:05:00Z",
+      "content": "NEW YORK (AP) The virus that causes polio has been found in New York Citys wastewater in another sign that the disease, which hadnt been seen in the U.S. in a decade, is quietly spreading among unvac… [+4248 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Catherine Shoard",
+      "title": "Actor Anne Heche dies a week after car crash, friend says - The Guardian",
+      "description": "The 53-year-od US actor, who starred in films including Donnie Brasco, Catfight and the remake of Psycho, did not regain consciousness after a car crash on 5 August",
+      "url": "https://amp.theguardian.com/film/2022/aug/12/anne-heche-death-actor-dies-week-after-car-crash-aged-53",
+      "urlToImage": null,
+      "publishedAt": "2022-08-12T17:58:00Z",
+      "content": "Anne HecheThe 53-year-od US actor, who starred in films including Donnie Brasco, Catfight and the remake of Psycho, did not regain consciousness after a car crash on 5 August\r\nThe US actor Anne Heche… [+5413 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Chicago Tribune" },
+      "author": "MICHAEL BALSAMO, ZEKE MILLER and ERIC TUCKER",
+      "title": "Judge is deciding on unsealing Mar-a-Lago FBI warrant - Chicago Tribune",
+      "description": "A federal judge was to decide as soon as Friday whether to grant the Department of Justice’s request to unseal the warrant that authorized the FBI to search former President Trump’s Florida estate.",
+      "url": "https://www.chicagotribune.com/nation-world/ct-aud-nw-mar-a-lago-warrant-20220812-4zoffxmkdvb3dfhlpxaqz64xba-story.html",
+      "urlToImage": "https://www.chicagotribune.com/resizer/qvpMY-HawECslzR69TjfJ7DAi3g=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/J3YTV2YTKKOI6WWOYL3TPMOLJQ.jpg",
+      "publishedAt": "2022-08-12T17:16:00Z",
+      "content": "WASHINGTON — A federal judge was to decide as soon as Friday whether to grant the Department of Justices request to unseal the warrant that authorized the FBI to search former President Donald Trumps… [+6730 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Ron Amadeo",
+      "title": "Xiaomi clones the Galaxy Fold, makes it 40% thinner, adds a bigger battery - Ars Technica",
+      "description": "Samsung hasn't changed the Galaxy Fold battery density for four years, and it shows.",
+      "url": "https://arstechnica.com/gadgets/2022/08/xiaomi-clones-the-galaxy-fold-makes-it-40-thinner-adds-a-bigger-battery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/30-760x380.jpg",
+      "publishedAt": "2022-08-12T17:12:26Z",
+      "content": "26 with 20 posters participating\r\n<ul><li>\r\n The Xiaomi Mix Fold 2. Yep, that's thin. \r\n</li><li>\r\n</li><li>\r\n The specs say the device doesn't fold flat, but it's close. \r\n</li><li>\r\n</li><li>\r\n Fin… [+2497 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Maya Yang",
+      "title": "Fox News airs false photo of Trump search judge with Ghislaine Maxwell - The Guardian",
+      "description": "Network criticized for sharing manipulated image of Bruce Reinhart on a plane across from the convicted sex trafficker",
+      "url": "https://amp.theguardian.com/media/2022/aug/12/fox-news-fake-photo-judge-trump-search-warrant-ghislaine-maxwell",
+      "urlToImage": "https://i.guim.co.uk/img/media/121b31fba7aa7b3dd05b967ce67ef60efc1d2015/0_132_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81e4fa09bf61b21993da2efadc9e1b97",
+      "publishedAt": "2022-08-12T17:03:00Z",
+      "content": "Fox News has drawn criticism for sharing a photoshopped image of a US magistrate judge, Bruce Reinhart, who signed the search warrant on the recent FBI search of Donald Trumps Mar-a-Lago property, si… [+2201 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "NFL preseason Week 1: One thing to watch in each game of busy weekend, including Trey Lance vs. Jordan Love - CBS Sports",
+      "description": "Here's what to keep an eye on in each game of the 2022 preseason's first weekend",
+      "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-one-thing-to-watch-in-each-game-of-busy-weekend-including-trey-lance-vs-jordan-love/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/12/c02a1b98-b699-47dc-a4fc-4274f3985edb/thumbnail/1200x675/229f1e9ef507d2797086b6be666bf216/lance1.jpg",
+      "publishedAt": "2022-08-12T16:46:11Z",
+      "content": "The first official week of the 2022 NFL preseason is here. We've already got two games down after Thursday night, which means there are 14 more to go this weekend. That's 28 teams in action over the … [+7403 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Greg Evans",
+      "title": "Singer Michelle Branch Arrested For Domestic Assault On Husband Patrick Carney Of The Black Keys - Deadline",
+      "description": "Michelle Branch, who scored a Grammy for singing on the 2002 Santana single “The Game of Love” and had other hits during the era, was arrested Thursday in Nashville and charged with domestic assault for slapping her estranged husband, Black Keys drummer Patri…",
+      "url": "https://deadline.com/2022/08/michelle-branch-arrest-domestic-violence-patrick-carney-1235090953/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2022/08/michelle-branch.jpg?w=1000",
+      "publishedAt": "2022-08-12T16:25:00Z",
+      "content": "Michelle Branch, who scored a Grammy for singing on the 2002 Santana single “The Game of Love” and had other hits during the era, was arrested Thursday in Nashville and charged with domestic assault … [+1352 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Joshua Goodman",
+      "title": "Author Salman Rushdie attacked on lecture stage in New York - The Associated Press",
+      "description": "CHAUTAUQUA, N.Y. (AP) — Salman Rushdie, the author whose writing led to death threats from Iran in the 1980s, was attacked and apparently stabbed in the neck Friday by a man who rushed the stage as he was about to give a lecture in western New York.",
+      "url": "https://apnews.com/article/salman-rushdie-attacked-9eae99aea82cb0d39628851ecd42227a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/213f853029324fc292a7db4058ebcf40/3000.jpeg",
+      "publishedAt": "2022-08-12T16:08:14Z",
+      "content": "CHAUTAUQUA, N.Y. (AP) Salman Rushdie, the author whose writing led to death threats from Iran in the 1980s, was attacked and apparently stabbed in the neck Friday by a man who rushed the stage as he … [+2888 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Matthew Mpoke Bigg",
+      "title": "Russia-Ukraine War: Latest Crimea News - The New York Times",
+      "description": "A senior Ukrainian official put the toll at 60 dead and 100 wounded in a series of explosions that destroyed several Russian warplanes in a Moscow-controlled region.",
+      "url": "https://www.nytimes.com/live/2022/08/12/world/ukraine-russia-news-war",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/12/multimedia/12ukraine-briefing-promo-1145am/12ukraine-briefing-promo-1145am-facebookJumbo.jpg",
+      "publishedAt": "2022-08-12T15:44:39Z",
+      "content": "Grain silos at the Odesa Port in Odesa, Ukraine, in July.Credit...Daniel Berehulak for The New York Times\r\nThe first ship hired to carry Ukrainian grain directly to famine-stricken parts of the Horn … [+3441 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Graham Kates",
+      "title": "New York judge rules criminal case against the Trump Organization and former CFO Allen Weisselberg can proceed - CBS News",
+      "description": "Weisselberg and the company had asked a judge to dismiss criminal fraud and tax evasion charged against them.",
+      "url": "https://www.cbsnews.com/news/new-york-judge-rules-criminal-case-against-the-trump-organization-and-former-cfo-allen-weisselberg-can-proceed/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/12/05200404-4380-412f-b4e3-357db14a98e5/thumbnail/1200x630/74974d8e0cfe472fb22443ecfd5aef81/img-2956.jpg",
+      "publishedAt": "2022-08-12T15:43:00Z",
+      "content": "A New York State judge ruled Friday that a criminal fraud and tax evasion prosecution against the Trump Organization and its former CFO, Allen Weisselberg, can proceed.\r\nWeisselberg and the company a… [+3278 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Renée Onque",
+      "title": "New Covid-19 guidance from the CDC: Everything you need to know - CNBC",
+      "description": "Over the past few days, the CDC has made changes to its Covid guidance. The agency softened several of its recommendations, including for students.",
+      "url": "https://www.cnbc.com/2022/08/12/new-covid-cdc-guidelines.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107071556-1654530822898-gettyimages-1208505324-20200221viurs_0035__a.jpeg?v=1654530882&w=1920&h=1080",
+      "publishedAt": "2022-08-12T15:37:16Z",
+      "content": "The Centers for Disease Control and Prevention updated its Covid-19 guidance on Thursday because, the agency says, the virus presents a lower risk of severe disease, hospitalization, and death than i… [+2280 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Michelle Toh, Benjamin Brown",
+      "title": "The Rhine is shrinking, endangering Europe's top economy - CNN",
+      "description": "Germany's Rhine river is getting too dry, snarling supply chains and creating more problems for its struggling economy.",
+      "url": "https://www.cnn.com/2022/08/12/economy/rhine-water-levels-german-economy-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220812133213-dried-riverbed-of-the-rhine-river-080922.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-08-12T15:24:00Z",
+      "content": "Dortmund/LondonCNN Business\r\n  — \r\nGermanys Rhine river is getting too dry, snarling supply chains and creating more problems for its struggling economy.\r\nWater in the river has dropped to exceptiona… [+3647 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Oliver Milman",
+      "title": "Al Gore hails Biden’s historic climate bill as ‘a critical turning point’ - The Guardian US",
+      "description": "Exclusive: ex-US vice-president says with $370bn package of clean energy spending ‘we have changed history and will never go backwards’",
+      "url": "https://amp.theguardian.com/us-news/2022/aug/12/al-gore-climate-turning-point-inflation-reduction-act",
+      "urlToImage": "https://i.guim.co.uk/img/media/af1252dd4127c440038c8b4b4df30549486db803/0_103_3100_1860/master/3100.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47d4f4dd3e67f9798b6fe9866d127457",
+      "publishedAt": "2022-08-12T15:20:00Z",
+      "content": "Americas passing of its first ever climate legislation will prove a pivotal moment in history that will help bring to an end the era of fossil fuels, according to Al Gore, the former US vice-presiden… [+4164 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Marvel's Spider-Man Remastered PC: 12 Minutes of Steam Deck Gameplay - IGN",
+      "description": "Marvel’s Spider-Man from 2018 – and Remastered for PS5 in 2020 – has finally reached PC Steam. Luckily for owners of Valve’s Steam Deck, it launched fully ve...",
+      "url": "https://www.youtube.com/watch?v=bD3ntRMD5TE",
+      "urlToImage": "https://i.ytimg.com/vi/bD3ntRMD5TE/hqdefault.jpg",
+      "publishedAt": "2022-08-12T15:00:51Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Elizabeth Wolfe, Josh Campbell, Brynn Gingras and Paul P. Murphy, CNN",
+      "title": "An armed man tried to enter the FBI's Cincinnati office and was fatally shot after a standoff with police. Here's what we know - CNN",
+      "description": "An armed man suspected of trying to breach the FBI's Cincinnati field office Thursday was killed after an hours-long standoff with law enforcement, authorities say.",
+      "url": "https://www.cnn.com/2022/08/12/us/fbi-cincinnati-office-armed-suspect-what-we-know/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220811220457-02-cincinnati-fbi-office-armed-subject-super-tease.jpg",
+      "publishedAt": "2022-08-12T14:53:00Z",
+      "content": "(CNN)An armed man suspected of trying to breach the FBI's Cincinnati field office Thursday was killed after an hours-long standoff with law enforcement, authorities say. \r\nThe suspect was believed to… [+6945 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Jalopnik" },
+      "author": "Andy Kalmowitz",
+      "title": "Rivian's Cash Burn Was $1.7 Billion - Jalopnik",
+      "description": "The EV truck maker lost a lot of money in the second quarter of 2022.",
+      "url": "https://jalopnik.com/rivians-cash-burn-was-1-7-billion-1849405082",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a09de1c0d46f512131c9f784fbab60d9.png",
+      "publishedAt": "2022-08-12T14:32:00Z",
+      "content": "EV maker Rivian is losing money like its going out of style, theres relatively little inventory left on dealer lots, and Mazda. All that and more on this glorious Friday edition of The Morning Shift … [+7674 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Marianne Garvey",
+      "title": "Megan Thee Stallion's new album 'Traumazine' drops - CNN",
+      "description": "Megan Thee Stallion has released her new album, 'Traumazine'.",
+      "url": "https://www.cnn.com/2022/08/12/entertainment/megan-thee-stallion-new-album/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211025161155-megan-thee-stallion-file-100121-super-tease.jpg",
+      "publishedAt": "2022-08-12T14:31:00Z",
+      "content": null
+    }
+  ]
+}
